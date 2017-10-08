@@ -1,0 +1,23 @@
+{
+  "name": "bowling-tendulkar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronRodrigues/bowling-tendulkar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronRodrigues/bowling-tendulkar/issues"
+  },
+  "homepage": "https://github.com/AaronRodrigues/bowling-tendulkar#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
